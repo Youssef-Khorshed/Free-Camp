@@ -1,8 +1,9 @@
-# flutter_application_camp
+# Free Camp App
 
-A new Flutter project.
+# Features
+(http – Graph QL API – Clean Architecture – Riverpod – Shared preferences 
+– equatable – connectivity – getit – dartz – Animation – TTD)
 
-## Getting Started
 ![لقطة الشاشة 2024-03-18 163742](https://github.com/Youssef-Khorshed/Free-Camp/assets/66167521/a0da045e-0ec4-4b88-88ba-91d5d60a6acc)
 ![لقطة الشاشة 2024-03-18 163354](https://github.com/Youssef-Khorshed/Free-Camp/assets/66167521/4c8daae6-a50d-42d7-8543-7786fee94050)
 ![لقطة الشاشة 2024-03-18 163310](https://github.com/Youssef-Khorshed/Free-Camp/assets/66167521/36ad5f71-eb82-45b7-a7a8-10dac22c94c2)
